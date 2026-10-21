@@ -13,7 +13,7 @@ Churned Customers: 1,796
 Churn Rate: 26.86%
 
 # Dashboard Preview
-<img width="1443" height="824" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/a5d93d08-eb09-4b0d-86b0-055c23b505c7" />
+<img width="1389" height="814" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/9768531d-6b90-41e6-a3a1-508010769a73" />
 
 # Project Files
 ChurnAnalysis.xlsx — Excel workbook containing the data and supporting analysis.
