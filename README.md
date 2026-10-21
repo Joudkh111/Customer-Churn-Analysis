@@ -1,11 +1,12 @@
 # Customer Churn Analysis
 
 # Project Overview
-This project analyzes customer churn data to understand customer attrition patterns and identify key factors associated with customer loss. Using Microsoft Excel and Power BI, the analysis explores churn reasons, customer age demographics, and data consumption behavior to uncover patterns in customer retention and support data-driven business decisions.
+This project analyzes customer churn to understand why customers leave and identify patterns associated with customer attrition. Using Microsoft Excel and Power BI, it examines churn rates, reasons for leaving, customer demographics, and service usage to gain insights into customer behavior.
+The project combines data analysis and interactive dashboards to visualize key metrics, compare churn across customer segments, and highlight trends that may affect customer retention. These insights support data-driven decision-making and help identify potential opportunities to improve customer satisfaction and reduce churn.
 
 # Tools Used
-Microsoft Excel
-Microsoft Power BI
+-Microsoft Excel
+-Microsoft Power BI
 
 # Key Metrics
 Total Customers: 6,687
