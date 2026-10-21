@@ -1,4 +1,3 @@
-<img width="1443" height="824" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/a5d93d08-eb09-4b0d-86b0-055c23b505c7" />
 # Customer Churn Analysis
 
 # Project Overview
@@ -14,8 +13,7 @@ Churned Customers: 1,796
 Churn Rate: 26.86%
 
 # Dashboard Preview
-[Customer Churn Dashbord]!
-(dashbord_preview.png)
+<img width="1443" height="824" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/a5d93d08-eb09-4b0d-86b0-055c23b505c7" />
 
 # Project Files
 ChurnAnalysis.xlsx — Excel workbook containing the data and supporting analysis.
