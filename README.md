@@ -5,8 +5,8 @@ This project analyzes customer churn to understand why customers leave and ident
 The project combines data analysis and interactive dashboards to visualize key metrics, compare churn across customer segments, and highlight trends that may affect customer retention. These insights support data-driven decision-making and help identify potential opportunities to improve customer satisfaction and reduce churn.
 
 # Tools Used
-## -Microsoft Excel
-## -Microsoft Power BI
+ -Microsoft Excel
+ -Microsoft Power BI
 
 # Key Metrics
 Total Customers: 6,687
